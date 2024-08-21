@@ -60,14 +60,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, please contact me at (mailto:chanduabbireddy247@gmail.com).
+For any questions or suggestions, please contact me at mail to: chanduabbireddy247@gmail.com
 
-```
-
-### How to Use This Template:
-1. **Replace** placeholders like `your-username`, `your-email@example.com`, and `#` with your actual GitHub username, email, and demo link.
-2. **Update** the `Installation` section if there are any additional steps.
-3. **Customize** the `Features`, `Outcomes`, and `What I Learned` sections to reflect your personal experience with the project.
-4. **Include a License** if applicable, or remove the License section if not necessary.
-
-This template provides a comprehensive overview of your project and is formatted to help others understand and contribute to your work.
