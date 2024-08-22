@@ -13,7 +13,7 @@ A simple, user-friendly To-Do List application built with HTML, CSS, and JavaScr
 
 ## Demo
 
-You can view the live demo [here](http://127.0.0.1:5501/) 
+You can view the live demo [here](https://incredible-heliotrope-a33067.netlify.app/)
 
 ## Technologies Used
 
